@@ -36,3 +36,60 @@
     transform: rotate(360deg);
   }
 }
+
+
+.calculater {
+  width: 25%;
+  margin-top: 100px;
+}
+.result {
+  border : 1px solid;
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px;
+  height: 60px;
+  font-size: 20px;
+}
+#buttons div {
+  border : 1px solid;
+  background: gainsboro;
+  cursor: pointer;
+
+  text-align:  center;
+  padding: 10px 20px;
+  font-size: 20px;
+  font-weight: 600;
+}
+#buttons div:hover {
+  background: #c6c6c6;
+
+}
+#euqal {
+  background: #ec6a2f!important;
+  color: white;
+  border: 1px solid black!important;
+}
+#euqal:hover {
+  background: #e55311!important;
+}
+/* /////////////for tablet */
+@media only screen and (max-width: 1000px) {
+  .calculater {
+      width: 35%;
+  }
+  #buttons div {
+      padding: 15px 20px;
+  }
+}
+
+/* ////////mobile//// */
+@media only screen and (max-width: 567px) {
+   .calculater {
+      width: 70%;
+  }
+  #buttons div {
+      padding: 15px 20px;
+  } 
+}
+
+
