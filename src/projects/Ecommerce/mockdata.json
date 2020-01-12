@@ -1,0 +1,1621 @@
+{
+    "CACHE_INVALIDATION_TTL": "31165331192",
+    "REQUEST": null,
+    "REQUEST-ID": "36357c73-c9c6-4fef-a01d-4763852ce900",
+    "RESPONSE": {
+      "productSwatchDetails": {
+        "SHOFN5X4AYXTV2M6": {
+          "type": "ProductSwatchValue",
+          "attributeOptions": [
+            [
+              {
+                "imageUrl": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/8/6/h/cb-462-458-7-chevit-red-black-original-imafn66zmwzed4vb.jpeg?q={@quality}",
+                "value": "Red & Black"
+              },
+              {
+                "imageUrl": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/m/b/u/cb-463-458-6-chevit-red-navy-original-imafn66zzwtgppu3.jpeg?q={@quality}",
+                "value": "Red & Navy"
+              }
+            ],
+            [
+              {
+                "value": "6"
+              },
+              {
+                "value": "7"
+              },
+              {
+                "value": "8"
+              },
+              {
+                "value": "9"
+              },
+              {
+                "value": "10"
+              }
+            ]
+          ],
+          "attributes": [
+            {
+              "compulsory": false,
+              "dropNonWhitelistedOptions": false,
+              "id": "color",
+              "queryInfo": {
+                "key": "sattr[]",
+                "operation": "APPEND",
+                "value": "color"
+              },
+              "selected": true,
+              "showOnBrowsePage": true,
+              "singleAttributeSwatchEnabled": true,
+              "text": "Color",
+              "type": "IMAGE",
+              "viewAllLinkText": "More Choices",
+              "viewOnly": true,
+              "viewType": "BOX"
+            },
+            {
+              "compulsory": true,
+              "dropNonWhitelistedOptions": false,
+              "id": "size",
+              "queryInfo": {
+                "key": "sattr[]",
+                "operation": "APPEND",
+                "value": "size"
+              },
+              "selected": false,
+              "showOnBrowsePage": true,
+              "singleAttributeSwatchEnabled": false,
+              "sizeChartInfo": {
+                "displayText": "Size Chart",
+                "url": "https://www.flipkart.com/rv/sizechart?pid=SHOFN5X4AYXTV2M6"
+              },
+              "text": "Size",
+              "type": "TEXT",
+              "viewAllLinkText": "More Choices",
+              "viewOnly": false,
+              "viewType": "BOX"
+            }
+          ],
+          "products": {
+            "SHOFN5X4CGYNN3GF": {
+              "attributeIndexes": [
+                1,
+                2
+              ],
+              "available": true,
+              "grade": {
+                "color": null,
+                "id": null,
+                "name": null,
+                "shortDesc": null
+              },
+              "images": [
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/m/b/u/cb-463-458-6-chevit-red-navy-original-imafn66zzwtgppu3.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/h/4/cb-457-458-9-chevit-grey-red-original-imafmwtxjnbxzhcp.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/j/f/cb-463-460-8-chevit-navy-red-original-imafmtfks855jz3f.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/h/4/cb-457-458-8-chevit-grey-red-original-imafmwtxwzkugqjc.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/j/f/cb-463-460-7-chevit-navy-red-original-imafn66zqp8rtsxg.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/m/b/u/cb-463-458-10-chevit-red-navy-original-imafmwtxeqhdtzjj.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/j/f/cb-463-460-7-chevit-navy-red-original-imafmtfkhjwgrfmf.jpeg?q={@quality}",
+                  "width": null
+                }
+              ],
+              "listingId": "LSTSHOFN5X4CGYNN3GFEMPQMZ",
+              "pricing": {
+                "type": "ListingPriceValue",
+                "deliveryCharge": {
+                  "additionalText": null,
+                  "currency": "INR",
+                  "decimalValue": "0.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Delivery Charges",
+                  "priceType": null,
+                  "strikeOff": false,
+                  "value": 0
+                },
+                "discountAmount": 367,
+                "extraDiscount": null,
+                "finalPrice": {
+                  "additionalText": null,
+                  "currency": "INR",
+                  "decimalValue": "631.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Total",
+                  "priceType": null,
+                  "strikeOff": false,
+                  "value": 631
+                },
+                "finalSavingsText": null,
+                "knowMore": null,
+                "mrp": {
+                  "additionalText": "(incl. of all taxes)",
+                  "currency": "INR",
+                  "decimalValue": "998.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Maximum Retail Price",
+                  "priceType": null,
+                  "strikeOff": true,
+                  "value": 998
+                },
+                "partPriceInfo": null,
+                "plusPriceInfo": null,
+                "priceDescriptions": null,
+                "pricePerUnit": null,
+                "priceTags": null,
+                "prices": [
+                  {
+                    "additionalText": null,
+                    "currency": "INR",
+                    "decimalValue": "998.00",
+                    "discount": 36,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Selling Price",
+                    "priceType": "FSP",
+                    "strikeOff": true,
+                    "value": 998
+                  },
+                  {
+                    "additionalText": null,
+                    "currency": "INR",
+                    "decimalValue": "631.00",
+                    "discount": null,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Special Price",
+                    "priceType": "SPECIAL_PRICE",
+                    "strikeOff": false,
+                    "value": 631
+                  }
+                ],
+                "showDiscountAsAmount": false,
+                "totalDiscount": 36
+              },
+              "productUrl": "/chevit-combo-pack-2-sneakers-men/p/itm5baf517496c9f?pid=SHOFN5X4CGYNN3GF&lid=LSTSHOFN5X4CGYNN3GFEMPQMZ&marketplace=FLIPKART",
+              "quickViewUrl": "/quick-view?pid=SHOFN5X4CGYNN3GF&lid=LSTSHOFN5X4CGYNN3GFEMPQMZ",
+              "smartUrl": "https://dl.flipkart.com/dl/chevit-combo-pack-2-sneakers-men/p/itm5baf517496c9f?pid=SHOFN5X4CGYNN3GF",
+              "titles": {
+                "coSubtitle": "Size: 8",
+                "newTitle": "Combo Pack of 2 Sneakers For Men",
+                "subtitle": "Red, Navy",
+                "superTitle": "Chevit",
+                "title": "Chevit Combo Pack of 2 Sneakers For Men"
+              }
+            },
+            "SHOFN5X4EQKKH86H": {
+              "attributeIndexes": [
+                0,
+                2
+              ],
+              "available": true,
+              "grade": {
+                "color": null,
+                "id": null,
+                "name": null,
+                "shortDesc": null
+              },
+              "images": [
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/8/6/h/cb-462-458-7-chevit-red-black-original-imafn66zmwzed4vb.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/h/4/cb-457-458-9-chevit-grey-red-original-imafmwtxjnbxzhcp.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/n/a/z/cb-460-462-8-chevit-black-original-imafmtfkcnsp6zzy.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/h/4/cb-457-458-8-chevit-grey-red-original-imafmwtxwzkugqjc.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/n/a/z/cb-460-462-6-chevit-black-original-imafn66zcsnfwkah.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/m/b/u/cb-463-458-10-chevit-red-navy-original-imafmwtxeqhdtzjj.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/8/6/h/cb-462-458-6-chevit-red-black-original-imafmtfk5ncat4n5.jpeg?q={@quality}",
+                  "width": null
+                }
+              ],
+              "listingId": "LSTSHOFN5X4EQKKH86HS9D4FB",
+              "pricing": {
+                "type": "ListingPriceValue",
+                "deliveryCharge": {
+                  "additionalText": null,
+                  "currency": "INR",
+                  "decimalValue": "0.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Delivery Charges",
+                  "priceType": null,
+                  "strikeOff": false,
+                  "value": 0
+                },
+                "discountAmount": 367,
+                "extraDiscount": null,
+                "finalPrice": {
+                  "additionalText": null,
+                  "currency": "INR",
+                  "decimalValue": "631.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Total",
+                  "priceType": null,
+                  "strikeOff": false,
+                  "value": 631
+                },
+                "finalSavingsText": null,
+                "knowMore": null,
+                "mrp": {
+                  "additionalText": "(incl. of all taxes)",
+                  "currency": "INR",
+                  "decimalValue": "998.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Maximum Retail Price",
+                  "priceType": null,
+                  "strikeOff": true,
+                  "value": 998
+                },
+                "partPriceInfo": null,
+                "plusPriceInfo": null,
+                "priceDescriptions": null,
+                "pricePerUnit": null,
+                "priceTags": null,
+                "prices": [
+                  {
+                    "additionalText": null,
+                    "currency": "INR",
+                    "decimalValue": "998.00",
+                    "discount": 36,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Selling Price",
+                    "priceType": "FSP",
+                    "strikeOff": true,
+                    "value": 998
+                  },
+                  {
+                    "additionalText": null,
+                    "currency": "INR",
+                    "decimalValue": "631.00",
+                    "discount": null,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Special Price",
+                    "priceType": "SPECIAL_PRICE",
+                    "strikeOff": false,
+                    "value": 631
+                  }
+                ],
+                "showDiscountAsAmount": false,
+                "totalDiscount": 36
+              },
+              "productUrl": "/chevit-combo-pack-2-sneakers-men/p/itm4610a36866e55?pid=SHOFN5X4EQKKH86H&lid=LSTSHOFN5X4EQKKH86HS9D4FB&marketplace=FLIPKART",
+              "quickViewUrl": "/quick-view?pid=SHOFN5X4EQKKH86H&lid=LSTSHOFN5X4EQKKH86HS9D4FB",
+              "smartUrl": "https://dl.flipkart.com/dl/chevit-combo-pack-2-sneakers-men/p/itm4610a36866e55?pid=SHOFN5X4EQKKH86H",
+              "titles": {
+                "coSubtitle": "Size: 8",
+                "newTitle": "Combo Pack of 2 Sneakers For Men",
+                "subtitle": "Red, Black",
+                "superTitle": "Chevit",
+                "title": "Chevit Combo Pack of 2 Sneakers For Men"
+              }
+            },
+            "SHOFN5X4AYXTV2M6": {
+              "attributeIndexes": [
+                1,
+                0
+              ],
+              "available": true,
+              "grade": {
+                "color": null,
+                "id": null,
+                "name": null,
+                "shortDesc": null
+              },
+              "images": [
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/m/b/u/cb-463-458-6-chevit-red-navy-original-imafn66zzwtgppu3.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/h/4/cb-457-458-9-chevit-grey-red-original-imafmwtxjnbxzhcp.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/j/f/cb-463-460-8-chevit-navy-red-original-imafmtfks855jz3f.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/h/4/cb-457-458-8-chevit-grey-red-original-imafmwtxwzkugqjc.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/j/f/cb-463-460-7-chevit-navy-red-original-imafn66zqp8rtsxg.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/m/b/u/cb-463-458-10-chevit-red-navy-original-imafmwtxeqhdtzjj.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/j/f/cb-463-460-7-chevit-navy-red-original-imafmtfkhjwgrfmf.jpeg?q={@quality}",
+                  "width": null
+                }
+              ],
+              "listingId": "LSTSHOFN5X4AYXTV2M6JYOO3I",
+              "pricing": {
+                "type": "ListingPriceValue",
+                "deliveryCharge": {
+                  "additionalText": null,
+                  "currency": "INR",
+                  "decimalValue": "0.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Delivery Charges",
+                  "priceType": null,
+                  "strikeOff": false,
+                  "value": 0
+                },
+                "discountAmount": 367,
+                "extraDiscount": null,
+                "finalPrice": {
+                  "additionalText": null,
+                  "currency": "INR",
+                  "decimalValue": "631.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Total",
+                  "priceType": null,
+                  "strikeOff": false,
+                  "value": 631
+                },
+                "finalSavingsText": null,
+                "knowMore": null,
+                "mrp": {
+                  "additionalText": "(incl. of all taxes)",
+                  "currency": "INR",
+                  "decimalValue": "998.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Maximum Retail Price",
+                  "priceType": null,
+                  "strikeOff": true,
+                  "value": 998
+                },
+                "partPriceInfo": null,
+                "plusPriceInfo": null,
+                "priceDescriptions": null,
+                "pricePerUnit": null,
+                "priceTags": null,
+                "prices": [
+                  {
+                    "additionalText": null,
+                    "currency": "INR",
+                    "decimalValue": "998.00",
+                    "discount": 36,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Selling Price",
+                    "priceType": "FSP",
+                    "strikeOff": true,
+                    "value": 998
+                  },
+                  {
+                    "additionalText": null,
+                    "currency": "INR",
+                    "decimalValue": "631.00",
+                    "discount": null,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Special Price",
+                    "priceType": "SPECIAL_PRICE",
+                    "strikeOff": false,
+                    "value": 631
+                  }
+                ],
+                "showDiscountAsAmount": false,
+                "totalDiscount": 36
+              },
+              "productUrl": "/chevit-combo-pack-2-sneakers-men/p/itm5baf517496c9f?pid=SHOFN5X4AYXTV2M6&lid=LSTSHOFN5X4AYXTV2M6JYOO3I&marketplace=FLIPKART",
+              "quickViewUrl": "/quick-view?pid=SHOFN5X4AYXTV2M6&lid=LSTSHOFN5X4AYXTV2M6JYOO3I",
+              "smartUrl": "https://dl.flipkart.com/dl/chevit-combo-pack-2-sneakers-men/p/itm5baf517496c9f?pid=SHOFN5X4AYXTV2M6",
+              "titles": {
+                "coSubtitle": "Size: 6",
+                "newTitle": "Combo Pack of 2 Sneakers For Men",
+                "subtitle": "Red, Navy",
+                "superTitle": "Chevit",
+                "title": "Chevit Combo Pack of 2 Sneakers For Men"
+              }
+            },
+            "SHOFN5X4RZTPZMBU": {
+              "attributeIndexes": [
+                1,
+                4
+              ],
+              "available": true,
+              "grade": {
+                "color": null,
+                "id": null,
+                "name": null,
+                "shortDesc": null
+              },
+              "images": [
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/m/b/u/cb-463-458-6-chevit-red-navy-original-imafn66zzwtgppu3.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/h/4/cb-457-458-9-chevit-grey-red-original-imafmwtxjnbxzhcp.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/j/f/cb-463-460-8-chevit-navy-red-original-imafmtfks855jz3f.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/h/4/cb-457-458-8-chevit-grey-red-original-imafmwtxwzkugqjc.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/j/f/cb-463-460-7-chevit-navy-red-original-imafn66zqp8rtsxg.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/m/b/u/cb-463-458-10-chevit-red-navy-original-imafmwtxeqhdtzjj.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/j/f/cb-463-460-7-chevit-navy-red-original-imafmtfkhjwgrfmf.jpeg?q={@quality}",
+                  "width": null
+                }
+              ],
+              "listingId": "LSTSHOFN5X4RZTPZMBUUOYA59",
+              "pricing": {
+                "type": "ListingPriceValue",
+                "deliveryCharge": {
+                  "additionalText": null,
+                  "currency": "INR",
+                  "decimalValue": "0.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Delivery Charges",
+                  "priceType": null,
+                  "strikeOff": false,
+                  "value": 0
+                },
+                "discountAmount": 367,
+                "extraDiscount": null,
+                "finalPrice": {
+                  "additionalText": null,
+                  "currency": "INR",
+                  "decimalValue": "631.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Total",
+                  "priceType": null,
+                  "strikeOff": false,
+                  "value": 631
+                },
+                "finalSavingsText": null,
+                "knowMore": null,
+                "mrp": {
+                  "additionalText": "(incl. of all taxes)",
+                  "currency": "INR",
+                  "decimalValue": "998.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Maximum Retail Price",
+                  "priceType": null,
+                  "strikeOff": true,
+                  "value": 998
+                },
+                "partPriceInfo": null,
+                "plusPriceInfo": null,
+                "priceDescriptions": null,
+                "pricePerUnit": null,
+                "priceTags": null,
+                "prices": [
+                  {
+                    "additionalText": null,
+                    "currency": "INR",
+                    "decimalValue": "998.00",
+                    "discount": 36,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Selling Price",
+                    "priceType": "FSP",
+                    "strikeOff": true,
+                    "value": 998
+                  },
+                  {
+                    "additionalText": null,
+                    "currency": "INR",
+                    "decimalValue": "631.00",
+                    "discount": null,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Special Price",
+                    "priceType": "SPECIAL_PRICE",
+                    "strikeOff": false,
+                    "value": 631
+                  }
+                ],
+                "showDiscountAsAmount": false,
+                "totalDiscount": 36
+              },
+              "productUrl": "/chevit-combo-pack-2-sneakers-men/p/itm5baf517496c9f?pid=SHOFN5X4RZTPZMBU&lid=LSTSHOFN5X4RZTPZMBUUOYA59&marketplace=FLIPKART",
+              "quickViewUrl": "/quick-view?pid=SHOFN5X4RZTPZMBU&lid=LSTSHOFN5X4RZTPZMBUUOYA59",
+              "smartUrl": "https://dl.flipkart.com/dl/chevit-combo-pack-2-sneakers-men/p/itm5baf517496c9f?pid=SHOFN5X4RZTPZMBU",
+              "titles": {
+                "coSubtitle": "Size: 10",
+                "newTitle": "Combo Pack of 2 Sneakers For Men",
+                "subtitle": "Red, Navy",
+                "superTitle": "Chevit",
+                "title": "Chevit Combo Pack of 2 Sneakers For Men"
+              }
+            },
+            "SHOFN5X4JRKSWHFN": {
+              "attributeIndexes": [
+                0,
+                1
+              ],
+              "available": true,
+              "grade": {
+                "color": null,
+                "id": null,
+                "name": null,
+                "shortDesc": null
+              },
+              "images": [
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/8/6/h/cb-462-458-7-chevit-red-black-original-imafn66zmwzed4vb.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/h/4/cb-457-458-9-chevit-grey-red-original-imafmwtxjnbxzhcp.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/n/a/z/cb-460-462-8-chevit-black-original-imafmtfkcnsp6zzy.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/h/4/cb-457-458-8-chevit-grey-red-original-imafmwtxwzkugqjc.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/n/a/z/cb-460-462-6-chevit-black-original-imafn66zcsnfwkah.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/m/b/u/cb-463-458-10-chevit-red-navy-original-imafmwtxeqhdtzjj.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/8/6/h/cb-462-458-6-chevit-red-black-original-imafmtfk5ncat4n5.jpeg?q={@quality}",
+                  "width": null
+                }
+              ],
+              "listingId": "LSTSHOFN5X4JRKSWHFNLQ7VAU",
+              "pricing": {
+                "type": "ListingPriceValue",
+                "deliveryCharge": {
+                  "additionalText": null,
+                  "currency": "INR",
+                  "decimalValue": "0.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Delivery Charges",
+                  "priceType": null,
+                  "strikeOff": false,
+                  "value": 0
+                },
+                "discountAmount": 367,
+                "extraDiscount": null,
+                "finalPrice": {
+                  "additionalText": null,
+                  "currency": "INR",
+                  "decimalValue": "631.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Total",
+                  "priceType": null,
+                  "strikeOff": false,
+                  "value": 631
+                },
+                "finalSavingsText": null,
+                "knowMore": null,
+                "mrp": {
+                  "additionalText": "(incl. of all taxes)",
+                  "currency": "INR",
+                  "decimalValue": "998.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Maximum Retail Price",
+                  "priceType": null,
+                  "strikeOff": true,
+                  "value": 998
+                },
+                "partPriceInfo": null,
+                "plusPriceInfo": null,
+                "priceDescriptions": null,
+                "pricePerUnit": null,
+                "priceTags": null,
+                "prices": [
+                  {
+                    "additionalText": null,
+                    "currency": "INR",
+                    "decimalValue": "998.00",
+                    "discount": 36,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Selling Price",
+                    "priceType": "FSP",
+                    "strikeOff": true,
+                    "value": 998
+                  },
+                  {
+                    "additionalText": null,
+                    "currency": "INR",
+                    "decimalValue": "631.00",
+                    "discount": null,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Special Price",
+                    "priceType": "SPECIAL_PRICE",
+                    "strikeOff": false,
+                    "value": 631
+                  }
+                ],
+                "showDiscountAsAmount": false,
+                "totalDiscount": 36
+              },
+              "productUrl": "/chevit-combo-pack-2-sneakers-men/p/itm4610a36866e55?pid=SHOFN5X4JRKSWHFN&lid=LSTSHOFN5X4JRKSWHFNLQ7VAU&marketplace=FLIPKART",
+              "quickViewUrl": "/quick-view?pid=SHOFN5X4JRKSWHFN&lid=LSTSHOFN5X4JRKSWHFNLQ7VAU",
+              "smartUrl": "https://dl.flipkart.com/dl/chevit-combo-pack-2-sneakers-men/p/itm4610a36866e55?pid=SHOFN5X4JRKSWHFN",
+              "titles": {
+                "coSubtitle": "Size: 7",
+                "newTitle": "Combo Pack of 2 Sneakers For Men",
+                "subtitle": "Red, Black",
+                "superTitle": "Chevit",
+                "title": "Chevit Combo Pack of 2 Sneakers For Men"
+              }
+            },
+            "SHOFN5X4JDKZBBSE": {
+              "attributeIndexes": [
+                0,
+                3
+              ],
+              "available": true,
+              "grade": {
+                "color": null,
+                "id": null,
+                "name": null,
+                "shortDesc": null
+              },
+              "images": [
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/8/6/h/cb-462-458-7-chevit-red-black-original-imafn66zmwzed4vb.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/h/4/cb-457-458-9-chevit-grey-red-original-imafmwtxjnbxzhcp.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/n/a/z/cb-460-462-8-chevit-black-original-imafmtfkcnsp6zzy.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/h/4/cb-457-458-8-chevit-grey-red-original-imafmwtxwzkugqjc.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/n/a/z/cb-460-462-6-chevit-black-original-imafn66zcsnfwkah.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/m/b/u/cb-463-458-10-chevit-red-navy-original-imafmwtxeqhdtzjj.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/8/6/h/cb-462-458-6-chevit-red-black-original-imafmtfk5ncat4n5.jpeg?q={@quality}",
+                  "width": null
+                }
+              ],
+              "listingId": "LSTSHOFN5X4JDKZBBSECQXXKG",
+              "pricing": {
+                "type": "ListingPriceValue",
+                "deliveryCharge": {
+                  "additionalText": null,
+                  "currency": "INR",
+                  "decimalValue": "0.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Delivery Charges",
+                  "priceType": null,
+                  "strikeOff": false,
+                  "value": 0
+                },
+                "discountAmount": 367,
+                "extraDiscount": null,
+                "finalPrice": {
+                  "additionalText": null,
+                  "currency": "INR",
+                  "decimalValue": "631.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Total",
+                  "priceType": null,
+                  "strikeOff": false,
+                  "value": 631
+                },
+                "finalSavingsText": null,
+                "knowMore": null,
+                "mrp": {
+                  "additionalText": "(incl. of all taxes)",
+                  "currency": "INR",
+                  "decimalValue": "998.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Maximum Retail Price",
+                  "priceType": null,
+                  "strikeOff": true,
+                  "value": 998
+                },
+                "partPriceInfo": null,
+                "plusPriceInfo": null,
+                "priceDescriptions": null,
+                "pricePerUnit": null,
+                "priceTags": null,
+                "prices": [
+                  {
+                    "additionalText": null,
+                    "currency": "INR",
+                    "decimalValue": "998.00",
+                    "discount": 36,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Selling Price",
+                    "priceType": "FSP",
+                    "strikeOff": true,
+                    "value": 998
+                  },
+                  {
+                    "additionalText": null,
+                    "currency": "INR",
+                    "decimalValue": "631.00",
+                    "discount": null,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Special Price",
+                    "priceType": "SPECIAL_PRICE",
+                    "strikeOff": false,
+                    "value": 631
+                  }
+                ],
+                "showDiscountAsAmount": false,
+                "totalDiscount": 36
+              },
+              "productUrl": "/chevit-combo-pack-2-sneakers-men/p/itm4610a36866e55?pid=SHOFN5X4JDKZBBSE&lid=LSTSHOFN5X4JDKZBBSECQXXKG&marketplace=FLIPKART",
+              "quickViewUrl": "/quick-view?pid=SHOFN5X4JDKZBBSE&lid=LSTSHOFN5X4JDKZBBSECQXXKG",
+              "smartUrl": "https://dl.flipkart.com/dl/chevit-combo-pack-2-sneakers-men/p/itm4610a36866e55?pid=SHOFN5X4JDKZBBSE",
+              "titles": {
+                "coSubtitle": "Size: 9",
+                "newTitle": "Combo Pack of 2 Sneakers For Men",
+                "subtitle": "Red, Black",
+                "superTitle": "Chevit",
+                "title": "Chevit Combo Pack of 2 Sneakers For Men"
+              }
+            },
+            "SHOFN5X45DFZ9SNH": {
+              "attributeIndexes": [
+                0,
+                0
+              ],
+              "available": true,
+              "grade": {
+                "color": null,
+                "id": null,
+                "name": null,
+                "shortDesc": null
+              },
+              "images": [
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/8/6/h/cb-462-458-7-chevit-red-black-original-imafn66zmwzed4vb.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/h/4/cb-457-458-9-chevit-grey-red-original-imafmwtxjnbxzhcp.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/n/a/z/cb-460-462-8-chevit-black-original-imafmtfkcnsp6zzy.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/h/4/cb-457-458-8-chevit-grey-red-original-imafmwtxwzkugqjc.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/n/a/z/cb-460-462-6-chevit-black-original-imafn66zcsnfwkah.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/m/b/u/cb-463-458-10-chevit-red-navy-original-imafmwtxeqhdtzjj.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/8/6/h/cb-462-458-6-chevit-red-black-original-imafmtfk5ncat4n5.jpeg?q={@quality}",
+                  "width": null
+                }
+              ],
+              "listingId": "LSTSHOFN5X45DFZ9SNHLQXGZ4",
+              "pricing": {
+                "type": "ListingPriceValue",
+                "deliveryCharge": {
+                  "additionalText": null,
+                  "currency": "INR",
+                  "decimalValue": "0.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Delivery Charges",
+                  "priceType": null,
+                  "strikeOff": false,
+                  "value": 0
+                },
+                "discountAmount": 367,
+                "extraDiscount": null,
+                "finalPrice": {
+                  "additionalText": null,
+                  "currency": "INR",
+                  "decimalValue": "631.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Total",
+                  "priceType": null,
+                  "strikeOff": false,
+                  "value": 631
+                },
+                "finalSavingsText": null,
+                "knowMore": null,
+                "mrp": {
+                  "additionalText": "(incl. of all taxes)",
+                  "currency": "INR",
+                  "decimalValue": "998.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Maximum Retail Price",
+                  "priceType": null,
+                  "strikeOff": true,
+                  "value": 998
+                },
+                "partPriceInfo": null,
+                "plusPriceInfo": null,
+                "priceDescriptions": null,
+                "pricePerUnit": null,
+                "priceTags": null,
+                "prices": [
+                  {
+                    "additionalText": null,
+                    "currency": "INR",
+                    "decimalValue": "998.00",
+                    "discount": 36,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Selling Price",
+                    "priceType": "FSP",
+                    "strikeOff": true,
+                    "value": 998
+                  },
+                  {
+                    "additionalText": null,
+                    "currency": "INR",
+                    "decimalValue": "631.00",
+                    "discount": null,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Special Price",
+                    "priceType": "SPECIAL_PRICE",
+                    "strikeOff": false,
+                    "value": 631
+                  }
+                ],
+                "showDiscountAsAmount": false,
+                "totalDiscount": 36
+              },
+              "productUrl": "/chevit-combo-pack-2-sneakers-men/p/itm4610a36866e55?pid=SHOFN5X45DFZ9SNH&lid=LSTSHOFN5X45DFZ9SNHLQXGZ4&marketplace=FLIPKART",
+              "quickViewUrl": "/quick-view?pid=SHOFN5X45DFZ9SNH&lid=LSTSHOFN5X45DFZ9SNHLQXGZ4",
+              "smartUrl": "https://dl.flipkart.com/dl/chevit-combo-pack-2-sneakers-men/p/itm4610a36866e55?pid=SHOFN5X45DFZ9SNH",
+              "titles": {
+                "coSubtitle": "Size: 6",
+                "newTitle": "Combo Pack of 2 Sneakers For Men",
+                "subtitle": "Red, Black",
+                "superTitle": "Chevit",
+                "title": "Chevit Combo Pack of 2 Sneakers For Men"
+              }
+            },
+            "SHOFN5X4CWGGY7BH": {
+              "attributeIndexes": [
+                1,
+                3
+              ],
+              "available": true,
+              "grade": {
+                "color": null,
+                "id": null,
+                "name": null,
+                "shortDesc": null
+              },
+              "images": [
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/m/b/u/cb-463-458-6-chevit-red-navy-original-imafn66zzwtgppu3.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/h/4/cb-457-458-9-chevit-grey-red-original-imafmwtxjnbxzhcp.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/j/f/cb-463-460-8-chevit-navy-red-original-imafmtfks855jz3f.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/h/4/cb-457-458-8-chevit-grey-red-original-imafmwtxwzkugqjc.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/j/f/cb-463-460-7-chevit-navy-red-original-imafn66zqp8rtsxg.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/m/b/u/cb-463-458-10-chevit-red-navy-original-imafmwtxeqhdtzjj.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/j/f/cb-463-460-7-chevit-navy-red-original-imafmtfkhjwgrfmf.jpeg?q={@quality}",
+                  "width": null
+                }
+              ],
+              "listingId": "LSTSHOFN5X4CWGGY7BHRA7XUF",
+              "pricing": {
+                "type": "ListingPriceValue",
+                "deliveryCharge": {
+                  "additionalText": null,
+                  "currency": "INR",
+                  "decimalValue": "0.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Delivery Charges",
+                  "priceType": null,
+                  "strikeOff": false,
+                  "value": 0
+                },
+                "discountAmount": 367,
+                "extraDiscount": null,
+                "finalPrice": {
+                  "additionalText": null,
+                  "currency": "INR",
+                  "decimalValue": "631.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Total",
+                  "priceType": null,
+                  "strikeOff": false,
+                  "value": 631
+                },
+                "finalSavingsText": null,
+                "knowMore": null,
+                "mrp": {
+                  "additionalText": "(incl. of all taxes)",
+                  "currency": "INR",
+                  "decimalValue": "998.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Maximum Retail Price",
+                  "priceType": null,
+                  "strikeOff": true,
+                  "value": 998
+                },
+                "partPriceInfo": null,
+                "plusPriceInfo": null,
+                "priceDescriptions": null,
+                "pricePerUnit": null,
+                "priceTags": null,
+                "prices": [
+                  {
+                    "additionalText": null,
+                    "currency": "INR",
+                    "decimalValue": "998.00",
+                    "discount": 36,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Selling Price",
+                    "priceType": "FSP",
+                    "strikeOff": true,
+                    "value": 998
+                  },
+                  {
+                    "additionalText": null,
+                    "currency": "INR",
+                    "decimalValue": "631.00",
+                    "discount": null,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Special Price",
+                    "priceType": "SPECIAL_PRICE",
+                    "strikeOff": false,
+                    "value": 631
+                  }
+                ],
+                "showDiscountAsAmount": false,
+                "totalDiscount": 36
+              },
+              "productUrl": "/chevit-combo-pack-2-sneakers-men/p/itm5baf517496c9f?pid=SHOFN5X4CWGGY7BH&lid=LSTSHOFN5X4CWGGY7BHRA7XUF&marketplace=FLIPKART",
+              "quickViewUrl": "/quick-view?pid=SHOFN5X4CWGGY7BH&lid=LSTSHOFN5X4CWGGY7BHRA7XUF",
+              "smartUrl": "https://dl.flipkart.com/dl/chevit-combo-pack-2-sneakers-men/p/itm5baf517496c9f?pid=SHOFN5X4CWGGY7BH",
+              "titles": {
+                "coSubtitle": "Size: 9",
+                "newTitle": "Combo Pack of 2 Sneakers For Men",
+                "subtitle": "Red, Navy",
+                "superTitle": "Chevit",
+                "title": "Chevit Combo Pack of 2 Sneakers For Men"
+              }
+            },
+            "SHOFN5X4H4GZXR3J": {
+              "attributeIndexes": [
+                0,
+                4
+              ],
+              "available": true,
+              "grade": {
+                "color": null,
+                "id": null,
+                "name": null,
+                "shortDesc": null
+              },
+              "images": [
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/8/6/h/cb-462-458-7-chevit-red-black-original-imafn66zmwzed4vb.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/h/4/cb-457-458-9-chevit-grey-red-original-imafmwtxjnbxzhcp.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/n/a/z/cb-460-462-8-chevit-black-original-imafmtfkcnsp6zzy.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/h/4/cb-457-458-8-chevit-grey-red-original-imafmwtxwzkugqjc.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/n/a/z/cb-460-462-6-chevit-black-original-imafn66zcsnfwkah.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/m/b/u/cb-463-458-10-chevit-red-navy-original-imafmwtxeqhdtzjj.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/8/6/h/cb-462-458-6-chevit-red-black-original-imafmtfk5ncat4n5.jpeg?q={@quality}",
+                  "width": null
+                }
+              ],
+              "listingId": "LSTSHOFN5X4H4GZXR3JTYNDWE",
+              "pricing": {
+                "type": "ListingPriceValue",
+                "deliveryCharge": {
+                  "additionalText": null,
+                  "currency": "INR",
+                  "decimalValue": "0.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Delivery Charges",
+                  "priceType": null,
+                  "strikeOff": false,
+                  "value": 0
+                },
+                "discountAmount": 367,
+                "extraDiscount": null,
+                "finalPrice": {
+                  "additionalText": null,
+                  "currency": "INR",
+                  "decimalValue": "631.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Total",
+                  "priceType": null,
+                  "strikeOff": false,
+                  "value": 631
+                },
+                "finalSavingsText": null,
+                "knowMore": null,
+                "mrp": {
+                  "additionalText": "(incl. of all taxes)",
+                  "currency": "INR",
+                  "decimalValue": "998.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Maximum Retail Price",
+                  "priceType": null,
+                  "strikeOff": true,
+                  "value": 998
+                },
+                "partPriceInfo": null,
+                "plusPriceInfo": null,
+                "priceDescriptions": null,
+                "pricePerUnit": null,
+                "priceTags": null,
+                "prices": [
+                  {
+                    "additionalText": null,
+                    "currency": "INR",
+                    "decimalValue": "998.00",
+                    "discount": 36,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Selling Price",
+                    "priceType": "FSP",
+                    "strikeOff": true,
+                    "value": 998
+                  },
+                  {
+                    "additionalText": null,
+                    "currency": "INR",
+                    "decimalValue": "631.00",
+                    "discount": null,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Special Price",
+                    "priceType": "SPECIAL_PRICE",
+                    "strikeOff": false,
+                    "value": 631
+                  }
+                ],
+                "showDiscountAsAmount": false,
+                "totalDiscount": 36
+              },
+              "productUrl": "/chevit-combo-pack-2-sneakers-men/p/itm4610a36866e55?pid=SHOFN5X4H4GZXR3J&lid=LSTSHOFN5X4H4GZXR3JTYNDWE&marketplace=FLIPKART",
+              "quickViewUrl": "/quick-view?pid=SHOFN5X4H4GZXR3J&lid=LSTSHOFN5X4H4GZXR3JTYNDWE",
+              "smartUrl": "https://dl.flipkart.com/dl/chevit-combo-pack-2-sneakers-men/p/itm4610a36866e55?pid=SHOFN5X4H4GZXR3J",
+              "titles": {
+                "coSubtitle": "Size: 10",
+                "newTitle": "Combo Pack of 2 Sneakers For Men",
+                "subtitle": "Red, Black",
+                "superTitle": "Chevit",
+                "title": "Chevit Combo Pack of 2 Sneakers For Men"
+              }
+            },
+            "SHOFN5X4ECQ2DAEH": {
+              "attributeIndexes": [
+                1,
+                1
+              ],
+              "available": true,
+              "grade": {
+                "color": null,
+                "id": null,
+                "name": null,
+                "shortDesc": null
+              },
+              "images": [
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/m/b/u/cb-463-458-6-chevit-red-navy-original-imafn66zzwtgppu3.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/h/4/cb-457-458-9-chevit-grey-red-original-imafmwtxjnbxzhcp.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/j/f/cb-463-460-8-chevit-navy-red-original-imafmtfks855jz3f.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/h/4/cb-457-458-8-chevit-grey-red-original-imafmwtxwzkugqjc.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/j/f/cb-463-460-7-chevit-navy-red-original-imafn66zqp8rtsxg.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k48rwcw0/shoe/m/b/u/cb-463-458-10-chevit-red-navy-original-imafmwtxeqhdtzjj.jpeg?q={@quality}",
+                  "width": null
+                },
+                {
+                  "aspectRatio": "5:6",
+                  "contentInfo": null,
+                  "height": null,
+                  "url": "https://rukminim1.flixcart.com/image/{@width}/{@height}/k4a7c7k0/shoe/y/j/f/cb-463-460-7-chevit-navy-red-original-imafmtfkhjwgrfmf.jpeg?q={@quality}",
+                  "width": null
+                }
+              ],
+              "listingId": "LSTSHOFN5X4ECQ2DAEHPDPCPO",
+              "pricing": {
+                "type": "ListingPriceValue",
+                "deliveryCharge": {
+                  "additionalText": null,
+                  "currency": "INR",
+                  "decimalValue": "0.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Delivery Charges",
+                  "priceType": null,
+                  "strikeOff": false,
+                  "value": 0
+                },
+                "discountAmount": 367,
+                "extraDiscount": null,
+                "finalPrice": {
+                  "additionalText": null,
+                  "currency": "INR",
+                  "decimalValue": "631.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Total",
+                  "priceType": null,
+                  "strikeOff": false,
+                  "value": 631
+                },
+                "finalSavingsText": null,
+                "knowMore": null,
+                "mrp": {
+                  "additionalText": "(incl. of all taxes)",
+                  "currency": "INR",
+                  "decimalValue": "998.00",
+                  "discount": null,
+                  "downpaymentRate": 0,
+                  "downpaymentRequired": false,
+                  "name": "Maximum Retail Price",
+                  "priceType": null,
+                  "strikeOff": true,
+                  "value": 998
+                },
+                "partPriceInfo": null,
+                "plusPriceInfo": null,
+                "priceDescriptions": null,
+                "pricePerUnit": null,
+                "priceTags": null,
+                "prices": [
+                  {
+                    "additionalText": null,
+                    "currency": "INR",
+                    "decimalValue": "998.00",
+                    "discount": 36,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Selling Price",
+                    "priceType": "FSP",
+                    "strikeOff": true,
+                    "value": 998
+                  },
+                  {
+                    "additionalText": null,
+                    "currency": "INR",
+                    "decimalValue": "631.00",
+                    "discount": null,
+                    "downpaymentRate": 0,
+                    "downpaymentRequired": false,
+                    "name": "Special Price",
+                    "priceType": "SPECIAL_PRICE",
+                    "strikeOff": false,
+                    "value": 631
+                  }
+                ],
+                "showDiscountAsAmount": false,
+                "totalDiscount": 36
+              },
+              "productUrl": "/chevit-combo-pack-2-sneakers-men/p/itm5baf517496c9f?pid=SHOFN5X4ECQ2DAEH&lid=LSTSHOFN5X4ECQ2DAEHPDPCPO&marketplace=FLIPKART",
+              "quickViewUrl": "/quick-view?pid=SHOFN5X4ECQ2DAEH&lid=LSTSHOFN5X4ECQ2DAEHPDPCPO",
+              "smartUrl": "https://dl.flipkart.com/dl/chevit-combo-pack-2-sneakers-men/p/itm5baf517496c9f?pid=SHOFN5X4ECQ2DAEH",
+              "titles": {
+                "coSubtitle": "Size: 7",
+                "newTitle": "Combo Pack of 2 Sneakers For Men",
+                "subtitle": "Red, Navy",
+                "superTitle": "Chevit",
+                "title": "Chevit Combo Pack of 2 Sneakers For Men"
+              }
+            }
+          },
+          "tooltips": [
+            {
+              "emoji": "💡",
+              "key": "Tip"
+            },
+            {
+              "emoji": "💡",
+              "key": "Tip"
+            }
+          ]
+        }
+      }
+    },
+    "SESSION": {
+      "accountId": null,
+      "asn": null,
+      "email": null,
+      "firstName": null,
+      "flipkartFirstUser": false,
+      "isLoggedIn": false,
+      "lastName": null,
+      "nsid": "2.SI68EDD29BB60A4B969DE0789BD57407EA.0.VIB9C247566B5F472A8766C3CC71FF2C3E",
+      "secureToken": "SI68EDD29BB60A4B969DE0789BD57407EA:VIB9C247566B5F472A8766C3CC71FF2C3E",
+      "sn": "2.VIB9C247566B5F472A8766C3CC71FF2C3E.SI68EDD29BB60A4B969DE0789BD57407EA.VS4E35C0FF41A04D4888481ACBAC163E47.1577266055",
+      "ts": 0,
+      "twoFa": false,
+      "vid": "VIB9C247566B5F472A8766C3CC71FF2C3E"
+    },
+    "STATUS_CODE": 200
+  }

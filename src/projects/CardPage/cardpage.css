@@ -1,0 +1,10 @@
+.card-page {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding-top: 30px;
+    width: 80%;
+    float: right;
+    justify-content: center;
+    grid-gap: 5px;
+
+}

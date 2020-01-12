@@ -1,0 +1,113 @@
+.leftside {
+    width: 19%;
+    float: left;
+    background-color: white;
+    margin-top: 30px;
+}
+
+.leftside h5 {
+    border-bottom: 1px solid gainsboro;
+    padding-bottom: 15px;
+    padding: 16px;
+}
+
+.categories {
+    padding: 16px;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 13px;
+    border-bottom: 1px solid gainsboro;
+}
+
+.categories .footwear-text, .fa-angle-down {
+    padding-bottom: 5px;
+    font-weight: 600;
+}
+
+.footwear-categories {
+    list-style: none;
+    margin-bottom: 0px;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 14px;
+}
+
+.footwear-categories li a {
+    color: black;
+    text-decoration: none;
+}
+
+/* //////////price-categories//////// */
+
+.price-categories {
+    padding: 16px;
+    border-bottom: 1px solid gainsboro;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 13px;
+}
+
+.price-categories .price-text {
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+}
+
+.price-text span {
+    color: blue;
+}
+
+.input-range input {
+    width: 100%;
+}
+
+.select-box {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* //////////////brand-categories////////////////////// */
+
+.brand-categories {
+    padding: 16px;
+    border-bottom: 1px solid gainsboro;
+    font-weight: 600;
+    font-size: 13px;
+    font-family: Roboto, Arial, sans-serif;
+}
+
+.brand-text {
+    display: flex;
+    justify-content: space-between;
+}
+
+.search-symbol {
+    display: flex;
+    position: relative;
+}
+
+input:focus .search-symbol {
+    border-color: blue;
+}
+
+.search-symbol span {
+    position: absolute;
+}
+
+.search-symbol input {
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: #e0e0e0;
+    padding-left: 20px;
+    width: 100%;
+}
+
+.search-symbol input:focus {
+    border-color: blue;
+}
+.show-brand-list {
+    padding-top: 10px;
+}
+.more-brand{
+    color: blue;
+}
+.show-brand-list label {
+    padding-left: 11px;
+}
